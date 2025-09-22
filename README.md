@@ -1,5 +1,6 @@
 # OpenWeatherMap-Dashboard-API-
 Джерело даних – OpenWeatherMap API
+
 Поточна погода: https://api.openweathermap.org/data/2.5/weather?q={city}&units=metric&appid={API_KEY}
 
 Прогноз на 5 днів: https://api.openweathermap.org/data/2.5/forecast?q={city}&units=metric&appid={API_KEY}
